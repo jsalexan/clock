@@ -18,7 +18,7 @@
   Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   <br><br>
   
-  <br><br>
+
 
 ## Table of Contents
   - [Installation](#installation)
