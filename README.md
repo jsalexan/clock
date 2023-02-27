@@ -11,9 +11,9 @@
 
   This application uses the following technologies: JavaScript and CSS.
   <br><br>
-  I changed a few things for my version. In order to address the jump by the second hand when it reaches the 12 position, I put in an if statement that removes the transition and re-assigns it in the next second.
+  I changed a few things for my version. In order to address the jump by the second hand when it reaches the 12 position, I put in an if statement that removes the transition and re-assigns it in the next second. I happened to be looking as the minute hand hit the hour and it looked terrible, so I added code to the minute and hour hands to fix this issue, too. Should go back and refactor.
 
-  I also updated the CSS. I made my own cubic-bezier pattern that was more pleasing to my eyes. I slightly shortened the hour hand. Once I lowered the width, I needed to add in a left margin of equal percentage so it would remain in the correct place. Additionally, I made each hand a slightly different thickness. Then I added a new background image (from a movie I love) and changed the colors of the hands and clock border using colors in the image. Last, I added an ocarina to the center to cover the base of the hands and as a nod to the film plot.
+  I also updated the CSS. I made my own cubic-bezier pattern that was more pleasing to my eyes. I slightly shortened the hour hand. Once I lowered the width, I needed to add in a left margin of equal percentage so it would remain in the correct place. Additionally, I made each hand a slightly different thickness. Then I added a new background image (from Song of the Sea) and changed the colors of the hands and clock border using colors in the image. Last, I added an ocarina to the center to cover the base of the hands (and as a nod to the film plot).
   <br><br>
   Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   <br><br>
